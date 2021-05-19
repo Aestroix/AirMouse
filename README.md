@@ -10,6 +10,12 @@
 
   > `pip3` install `opencv-python`
   
--> Also install the `numpy` module of python, can prove to be helpful
+  > `pip3` install `mediapipe`
+  
+  > `pip3` install `numpy`
+
+
+-> Mediapipe is a `Google` based cross-platform framework for building multimodal applied machine learning pipelines. In short, it helps me in recognizing my hand :)
+  
 
 # THANKS
